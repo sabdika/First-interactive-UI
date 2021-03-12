@@ -1,3 +1,3 @@
 ## Hello Toast
-<img src="Task4.png" width="300">
+<img src="Task5_ExtractStringResouces.png" width="300">
 
