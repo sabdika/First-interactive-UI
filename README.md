@@ -1,1 +1,2 @@
-![Hello Toast](Task3.2_ChangeBtnAttributes.PNG)
+## Hello Toast
+<img src="Task3.png" width="300">
